@@ -1,0 +1,8 @@
+.imagem{
+    height: 200px;
+}
+
+.imagem:hover{
+    cursor: pointer;
+    opacity: 50%;
+}
